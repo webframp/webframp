@@ -6,6 +6,12 @@
 
 - 🔭 Currently working on [MobileOrg](https://github.com/MobileOrg/mobileorg/)
 - 🌱 Learning Rust and always trying to get better with Swift
-- 📫 How to reach me: I'm on twitter [@webframp](https://twitter.com/webframp) and a few other places
+- 📫 Reach me: on twitter [@webframp](https://twitter.com/webframp) and a few other places
 
-Decades of operations experience I'm trying to forget. Early adopter of devops and AWS. Perpetually learning from others and interested in people.
+Decades of operations experience I'm trying to forget.
+Early adopter of devops and AWS.
+Perpetually learning from others and interested in people.
+Lost my blue box and crunch whistle.
+
+- Fluent: English, Romanian
+- Passable: Spanish
