@@ -12,6 +12,9 @@ Decades of operations experience I'm trying to forget.
 Early adopter of devops and AWS.
 Perpetually learning from others and interested in people.
 Lost my blue box and crunch whistle.
+Always ready to help
 
 - Fluent: English, Romanian
 - Passable: Spanish
+
+[Sponsor me](https://github.com/sponsors/webframp/)
