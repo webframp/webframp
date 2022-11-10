@@ -8,7 +8,7 @@
 - Over 20 years of IT operations and experience, 15 years with AWS and cloud services
 - DevOps and ci/cd promoter
 - Maintaining [MobileOrg](https://github.com/MobileOrg/mobileorg/)
-- 📫 Reach me: on twitter [@webframp](https://twitter.com/webframp), email: `firstname.lastname at gmail` and a few other places
+- 📫 Reach me: on mastodon [@webframp@hachyderm.io](https://hachyderm.io/web/@webframp), email: `firstname.lastname at gmail` and a few other places
 
 Perpetually learning from others and interested in people.
 Lost my blue box and crunch whistle.
